@@ -1,0 +1,10 @@
+ENAHO 2024
+Filas del módulo 02: 117,721
+Residentes habituales: 108,664
+Hogares en la sumaria: 33,691
+Personas sin hogar en la sumaria: 0
+Pobreza monetaria (hogares, factor07 x mieperho): 27.58 %
+Pobreza monetaria (personas, facpob07): 27.53 %
+Oficial INEI: 27.6 % y 108,664 personas
+Personas: OK
+Pobreza dentro de 0.1 puntos: OK
