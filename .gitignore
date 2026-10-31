@@ -1,0 +1,7 @@
+datos/
+.venv/
+__pycache__/
+.DS_Store
+salidas/*.parquet
+evaluacion/*.jsonl
+*.log
